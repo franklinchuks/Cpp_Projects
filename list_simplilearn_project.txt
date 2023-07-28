@@ -1,7 +1,0 @@
-1. Hotel Management
-
-2. Registration and Login form
-
-3. Supermarket Billing system
-
-4. Airline registration
